@@ -524,10 +524,6 @@ form button {
     #about img {
       display: none;
     }
-    #about p {
-      text-align: center;
-    }
-
     #offers {
       height: auto;
       padding: 30px 10px;
