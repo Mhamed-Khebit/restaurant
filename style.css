@@ -524,6 +524,9 @@ form button {
     #about img {
       display: none;
     }
+        .pp{
+      text-align: justify;
+    }
     #offers {
       height: auto;
       padding: 30px 10px;
